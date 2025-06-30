@@ -6,7 +6,7 @@
 | **RuntimeException**  | 运行时异常   | 非强制处理         | NullPointerException, IndexOutOfBoundsException |
 | **Checked Exception** | 检查型异常   | 必须处理           | IOException, SQLException                       |
 
-
+![Exception](../Exception.png)
 ## 注意
 
 如果方法没有在父类声明异常，那么就不能在子类声明异常
