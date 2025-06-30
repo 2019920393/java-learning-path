@@ -6,7 +6,6 @@
 | **RuntimeException**  | 运行时异常   | 非强制处理         | NullPointerException, IndexOutOfBoundsException |
 | **Checked Exception** | 检查型异常   | 必须处理           | IOException, SQLException                       |
 
-![deepseek_mermaid_20250629_74b2c6](C:\Users\17697\Downloads\deepseek_mermaid_20250629_74b2c6.png)
 
 ## 注意
 
